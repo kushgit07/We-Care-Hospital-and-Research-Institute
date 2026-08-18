@@ -1,0 +1,6 @@
+{
+  "name": "We Care Hospital & Research Institute",
+  "description": "Premium multi-specialty tertiary care hospital portal with Google Mail OAuth 2.0, Mobile Phone Number OTP, department hubs, world-class doctor directory, interactive 4-step appointment booking, AI symptom triage, and live emergency response.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
